@@ -1,0 +1,86 @@
+div.Superior .cING h4
+{
+    background-color: #5DB23B;
+    color: white;
+}
+
+div.Superior .cCP h4
+{
+    background-color: #CD401D;
+    color: white;
+}
+
+div.Superior .cNE h4
+{
+    background-color: #F5C443;
+    color: white;
+}
+
+div.Inferior .cPA h4
+{
+    background-color: #EF7620;
+    color: white;
+}
+
+div.Inferior .cUX h4
+{
+    background-color: #6B407E;
+    color: white;
+}
+
+div.Inferior .cM h4
+{
+    background-color: #4AB9E8;
+    color: white;
+}
+
+
+/* CARRERAS HOVER */
+
+div.Superior .cING:hover
+{
+    background-color: #5DB23B;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+div.Superior .cCP:hover
+{
+    background-color: #CD401D;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+div.Superior .cNE:hover
+{
+    background-color: #F5C443;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+div.Inferior .cPA:hover
+{
+    background-color: #EF7620;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+div.Inferior .cUX:hover
+{
+    background-color: #6B407E;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+div.Inferior .cM:hover
+{
+    background-color: #4AB9E8;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
